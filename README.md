@@ -25,6 +25,9 @@ The app also checks for updates automatically on startup and can download the in
 2. Follow the setup wizard
 3. Launch **Weighbridge Client** from the Start Menu or Desktop shortcut
 
+> **If you see a "VCRUNTIME140.dll not found" or similar error**, install the Visual C++ Redistributable:
+> Download [VC_redist.x64.exe](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) and run it, then relaunch the app.
+
 ### macOS
 1. Open the downloaded `.dmg` file
 2. Drag **Weighbridge Client** to the Applications folder
